@@ -6,16 +6,16 @@ ITGSS Extended Reality Lab in Azerbaijan is focused on Immersive Media Technolog
 
 ##  Goals
 
-There are several emulators publicly available online, such as NS-3, SimuLTE or Simul5G. However, their complexity is extremely high, especially for non-telecommunications-specialists. We present FikoRE, our real-time 5G Radio Access Network (RAN) emulator carefully designed for application-level experimentation and prototyping. Its modularity and straightforward implementation allow multidisciplinary user to rapidly use or even modify it to test their own applications. Contrarily to the mentioned simulators/emulators, the goal of FikoRE is not mainly to understand and test the network, but study how the network and its different possible configurations behave for particular applications, use-cases and verticals.  
+There are several emulators publicly available online, such as NS-3, SimuLTE or Simul5G. However, their complexity is extremely high, especially for non-telecommunications-specialists. We present Netsight, our real-time 5G Radio Access Network (RAN) emulator carefully designed for application-level experimentation and prototyping. Its modularity and straightforward implementation allow multidisciplinary user to rapidly use or even modify it to test their own applications. Contrarily to the mentioned simulators/emulators, the goal of Netsight is not mainly to understand and test the network, but study how the network and its different possible configurations behave for particular applications, use-cases and verticals.  
 
-As we want to test our solutions in with actual networked applications we designed FikoRE to:  
+As we want to test our solutions in with actual networked applications we designed Netsight to:  
 
 * Work in Real-Time.
 * Handle actual IP traffic efficiently. 
 * Handle multiple emulated users with real or simulated traffic. 
 * Model the real behavior of the network with sufficient accuracy. 
 
-Besides, we need the emulator to be simple to use and, more importantly, easy to modify for possible particular needs. Consequently, FikoRE:  
+Besides, we need the emulator to be simple to use and, more importantly, easy to modify for possible particular needs. Consequently, Netsight:  
 
 * Has a high level of modularity to allow easy modifications.  
 * Follows a straightforward implementation.  
@@ -31,7 +31,7 @@ If you want to use Netsight in your research, don't forget to cite us!
 @misc{GonzalezD2022,
   doi = {10.48550/ARXIV.2204.04290},
   author = {Tunjay Akbarli, Teymur Novruzov},
-  title = {FikoRE: 5G and Beyond RAN Emulator for Application Level Experimentation and Prototyping},
+  title = {Netsight: 5G and Beyond RAN Emulator for Application Level Experimentation and Prototyping},
   publisher = {arXiv},
   year = {2022},
 }
