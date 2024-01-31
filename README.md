@@ -28,12 +28,11 @@ Furthermore, as the goal is to test actual applications on different possible sc
 If you want to use Netsight in your research, don't forget to cite us!
 
 ```
-@misc{GonzalezD2022,
-  doi = {10.48550/ARXIV.2204.04290},
+@misc{
   author = {Tunjay Akbarli, Teymur Novruzov},
   title = {Netsight: 5G and Beyond RAN Emulator for Application Level Experimentation and Prototyping},
-  publisher = {arXiv},
-  year = {2022},
+  publisher = {ITGSS},
+  year = {2024},
 }
 ```
 
